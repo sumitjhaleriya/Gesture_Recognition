@@ -19,3 +19,10 @@ Steps to run  :
 
 
 you can watch the demo of the project here : 
+
+Here are some screenshots of output:
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1maO-9cmaPHplfEAAsUmaEcP81Ohx-TA1/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1JezJXbj9aNpfzTT4gouY2hoaS72irwnB/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1fC0c1xlb9jgyIn8vngP6D928LDdpXffq/view?usp=sharing)
