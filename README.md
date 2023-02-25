@@ -8,4 +8,6 @@ Steps Before Running :
 
 2. Copy the code from the files and run them using any python interpretor .
 
+You need to run two files  : main.py and Augmentation.py
+
 you can watch the demo of the project here : 
