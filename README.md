@@ -9,7 +9,7 @@ As an example GestureRecognitionfor2Signs.ipynb file is provied to show how the 
 ## Hosting
 
 Steps to run  :
-1. You need to intall libraries using this command 
+1. You need to install libraries using this command 
 ```bash
   pip install os opencv-contrib-python keras tensorflow numpy
 ```   
